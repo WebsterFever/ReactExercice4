@@ -182,7 +182,7 @@ const Person = () => {
     <div>
       <h1>Cohorte: FT-34a</h1>
       <label>Instructor:  Webster ❤️</label>
-      <p>Alumnos: Los mejores de Henry 😎</p>
+      <p>Alumnos: Los mejores d WL 😎</p>
     </div>
   );
 };
@@ -316,7 +316,7 @@ const Profile = () => {
   return(
     <div>
       <h1>Este es el perfil de la Daianeta 😎</h1>
-      <h2>Cohorte: FT34a</h2>
+      <h2>Cohort React</h2>
 
       <button>
         <Link to='person'>Person</Link>
